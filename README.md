@@ -1,5 +1,5 @@
 # hosts
-This hosts file is intended to be for any content which may be unsuitable for individuals with suicidal ideation or persons subseptible to socially toxic influences.
+[This hosts file](https://github.com/poddus/hosts/blob/main/hosts) is intended to be for any content which may be unsuitable for individuals with suicidal ideation or persons subseptible to socially toxic influences.
 
 ## Motivation
 The idea came upon watching Tantacrul's video on this topic
